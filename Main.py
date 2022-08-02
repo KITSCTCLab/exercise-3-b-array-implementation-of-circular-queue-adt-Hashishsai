@@ -1,4 +1,3 @@
-import operator
 class Evaluate:
   """This class validates and evaluate postfix expression.
   Attributes:
